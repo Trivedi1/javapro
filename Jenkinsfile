@@ -1,4 +1,3 @@
-
 node
 {
     stage('checkout')
@@ -23,3 +22,4 @@ node
         echo 'Delivery the code'
     }
 }
+
